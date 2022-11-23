@@ -1,4 +1,6 @@
-# Python Tutorial
+# **Python Tutorial**
+
+*Notebooks for Python Programming Language (Different Applications)*
 
 ## Chapter 1 - [Introduction to Python](https://github.com/wilfredpine/Python-Tutorial/blob/main/Chapter%201%20-%20Introduction/Lesson%201%20-%20Introduction%20to%20Python.ipynb)
 
