@@ -16,9 +16,10 @@
 ### Lesson 1 - [Pillars of OOP](https://github.com/wilfredpine/Python-Tutorial/blob/main/Chapter%203%20-%20Object-Oriented%20Programming%20(OOP)/Lesson%201%20-%20Pillars%20of%20OOP.ipynb)
 ### Lesson 2 - [Lesson 2 - Application of OOP in Python](https://github.com/wilfredpine/Python-Tutorial/blob/main/Chapter%203%20-%20Object-Oriented%20Programming%20(OOP)/Lesson%202%20-%20Application%20of%20OOP%20in%20Python.ipynb)
 
-
-
-
+## Chapter 4 - Application Development (Django Framework)
+## Chapter 5 - Python for Data Science
+## Chapter 6 - Machine Learning
+## Chapter 7 - Natural Language Processing (NLP)
 
 
 # Other Related Python Courses

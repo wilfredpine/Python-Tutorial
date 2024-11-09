@@ -1,0 +1,20 @@
+What is Deep Learning?
+https://www.projectpro.io/article/deep-learning-algorithms/443
+
+https://github.com/maykulkarni/Machine-Learning-Notebooks
+
+https://github.com/justmarkham/scikit-learn-videos
+
+https://github.com/zotroneneis/machine_learning_basics
+
+https://github.com/WillKoehrsen/Machine-Learning-Projects
+
+https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning
+
+https://github.com/bamtak/machine-learning-implemetation-python
+
+https://github.com/jrjohansson/scientific-python-lectures
+
+https://github.com/serengil/decision-trees-for-ml
+
+https://github.com/huzaifsayed/Linear-Regression-Model-for-House-Price-Prediction

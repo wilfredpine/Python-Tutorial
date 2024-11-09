@@ -1,0 +1,5 @@
+Pandas
+	https://www.kaggle.com/berkayalan/pandas-a-complete-guide
+
+Seaborn
+	https://www.kaggle.com/berkayalan/seaborn-a-complete-data-visualization-guide

@@ -1,0 +1,13 @@
+Feature Selection Playlist
+
+https://www.youtube.com/watch?v=uMlU2JaiOd8&list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH
+
+
+Techniques
+
+https://www.youtube.com/watch?v=EqLBAmtKMnQ
+
+https://github.com/krishnaik06/Feature-Selection-techniques/blob/master/Feature%20Selection.ipynb
+
+https://github.com/krishnaik06/Feature-Selection-techniques
+
