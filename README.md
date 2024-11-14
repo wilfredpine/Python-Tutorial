@@ -24,3 +24,6 @@
 
 # Other Related Python Courses
 - https://github.com/Asabeneh/30-Days-Of-Python
+- https://github.com/maykulkarni/Machine-Learning-Curriculum
+- https://github.com/maykulkarni/Machine-Learning-Notebooks
+
