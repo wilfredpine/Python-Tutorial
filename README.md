@@ -2,6 +2,14 @@
 
 *Notebooks for Python Programming Language (Different Applications)*
 
+## Thanks me by
+
+Following [wilfredpine](https://github.com/wilfredpine/)
+
+Starred & Forked [Python-Tutorial](https://github.com/wilfredpine/Python-Tutorial)
+
+Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
+
 ## Chapter 1 - [Introduction to Python](https://github.com/wilfredpine/Python-Tutorial/blob/main/Chapter%201%20-%20Introduction/Lesson%201%20-%20Introduction%20to%20Python.ipynb)
 
 ## Chapter 2 - Fundamental of Programming
