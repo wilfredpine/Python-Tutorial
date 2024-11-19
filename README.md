@@ -35,3 +35,6 @@ Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
 - https://github.com/maykulkarni/Machine-Learning-Curriculum
 - https://github.com/maykulkarni/Machine-Learning-Notebooks
 
+## 
+
+Starred & Forked [django-auth-system](https://github.com/wilfredpine/django-auth-system)
