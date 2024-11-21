@@ -37,4 +37,7 @@ Subscribe at [confired-official](https://www.youtube.com/@confired-official/)
 
 ## 
 
-Starred & Forked [django-auth-system](https://github.com/wilfredpine/django-auth-system)
+Starred & Forked 
+
+1. [django-auth-system](https://github.com/wilfredpine/django-auth-system)
+2. [ML Development - Deoplyment](https://github.com/wilfredpine/machine-learning-dev2dep)
