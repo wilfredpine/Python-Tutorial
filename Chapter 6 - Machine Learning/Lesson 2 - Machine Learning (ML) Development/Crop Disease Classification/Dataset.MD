@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/mdismielhossenabir/corn-or-maize-leaf-disease
