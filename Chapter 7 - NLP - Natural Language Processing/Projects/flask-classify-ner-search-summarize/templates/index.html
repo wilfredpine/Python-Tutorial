@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Management System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Document Management System</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="document" accept=".txt" required>
+        <button type="submit">Upload Document</button>
+    </form>
+    <form action="/search" method="post">
+        <input type="text" name="query" placeholder="Search documents" required>
+        <button type="submit">Search</button>
+    </form>
+</body>
+</html>
